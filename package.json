@@ -1,0 +1,19 @@
+{
+    "name": "http-status-text",
+    "version": "1.0.4",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "http-status",
+        "http",
+        "status"
+    ],
+    "author": "Kuangyu Jing",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
