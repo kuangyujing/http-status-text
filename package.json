@@ -12,6 +12,10 @@
         "status"
     ],
     "author": "Kuangyu Jing",
+    "homepage": "https://github.com/kuangyujing/http-status-text#readme",
+    "bugs": {
+        "url": "https://github.com/kuangyujing/issues"
+    },
     "license": "MIT",
     "devDependencies": {
         "jest": "^29.7.0"
